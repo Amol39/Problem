@@ -1,0 +1,5 @@
+Q1 . Sliding window maximum .
+
+Q2 . Largest Area Histrogram .
+
+Q3 . Stock Span .
